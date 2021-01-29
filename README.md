@@ -19,6 +19,12 @@ On définit également nos containers correspondant aux différents graphiques q
 
 Dans le fichier graph.js, on trouve les différents container avec le code pour la création des graphiques.
 
+<img src="http://www.monsite.com/image.png" alt="Zozor" />
+
+
+
+
+
 
 
 
