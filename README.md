@@ -19,7 +19,7 @@ On définit également nos containers correspondant aux différents graphiques q
 
 Dans le fichier graph.js, on trouve les différents container avec le code pour la création des graphiques.
 
-<img scr="https://github.com/celine29730/Un-tableau-de-bord-sur-la-Covid/blob/main/Graph1.png"alt="image 1" />
+<img scr="https://github.com/celine29730/Un-tableau-de-bord-sur-la-Covid/blob/main/Graph1.png" alt="image 1" />
 <img scr="https://github.com/celine29730/Un-tableau-de-bord-sur-la-Covid/blob/main/Graph2.png" alt="image2" />
 <img scr="https://github.com/celine29730/Un-tableau-de-bord-sur-la-Covid/blob/main/Graph3.png" alt="image3"/>
 <img scr="https://github.com/celine29730/Un-tableau-de-bord-sur-la-Covid/blob/main/Graph4.png" alt="image4"/>
